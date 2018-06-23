@@ -1,0 +1,1 @@
+Refreshing some kafka knowledge
